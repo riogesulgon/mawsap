@@ -9,6 +9,11 @@ Mawsap is a simple Rust-based mouse jiggler utility that prevents system sleep/l
 2. xdotool and libxdo-dev
 
 ### Installation Steps
+Clone the repository:
+
+```bash
+git clone git@github.com:riogesulgon/mawsap.git
+```
 
 1. Install Rust (if not already installed):
    ```bash
