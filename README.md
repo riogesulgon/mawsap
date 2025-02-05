@@ -32,8 +32,12 @@ git clone git@github.com:riogesulgon/mawsap.git
    cargo build
    cargo run
    ```
-
+4. Install
+   ```bash
+   cargo install --path=.
+   ```
+   
 ### Usage
-- Run the program with `cargo run`
+- Run the program with `mawsap`
 - The mouse will start jiggling automatically
 - Press ESC to exit the program
